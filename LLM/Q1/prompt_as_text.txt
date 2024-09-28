@@ -1,0 +1,15 @@
+Extract the following information from the attached image:
+
+- Name: (e.g., "LOK Wing Ching")
+- Date of Birth: (e.g., "03-06-1985")
+- ID Code: (e.g., "Z683365(5)")
+- Gender: (e.g., "Female")
+
+Please respond with the extracted details in the following JSON format:
+
+{
+  "name": "LOK Wing Ching",
+  "date_of_birth": "03-06-1985",
+  "id_code": "Z683365(5)",
+  "gender": "Female"
+}
